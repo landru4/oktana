@@ -1,2 +1,2 @@
 # oktana
-Prueba de repositorio en oktana.
+Prueba de git.
